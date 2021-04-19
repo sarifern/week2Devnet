@@ -1,0 +1,99 @@
+{ 
+
+    "1": { 
+
+        "vlan": "1", 
+
+        "name": "default", 
+
+        "status": "active", 
+
+        "port": "Fa5/10" 
+
+    }, 
+
+    "2": { 
+
+        "vlan": "2", 
+
+        "name": "VLAN0002", 
+
+        "status": "active", 
+
+        "port": "Fa5/6" 
+
+    }, 
+
+    "3": { 
+
+        "vlan": "3", 
+
+        "name": "VLAN0003", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    }, 
+
+    "4": { 
+
+        "vlan": "4", 
+
+        "name": "VLAN0004", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    }, 
+
+    "5": { 
+
+        "vlan": "5", 
+
+        "name": "VLAN0005", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    }, 
+
+    "6": { 
+
+        "vlan": "6", 
+
+        "name": "VLAN0006", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    }, 
+
+    "1004": { 
+
+        "vlan": "1004", 
+
+        "name": "fddinet-default", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    }, 
+
+    "1005": { 
+
+        "vlan": "1005", 
+
+        "name": "trbrf-default", 
+
+        "status": "active", 
+
+        "port": "Fa5/9" 
+
+    } 
+
+} 
