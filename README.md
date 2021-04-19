@@ -1,3 +1,7 @@
+# WEEK 2 
+
+## TASKS
+
 Read the file vlans.json and print the names of all the vlans with its status.
 
 The output should look like this:
@@ -12,4 +16,4 @@ VLAN0002     active    Fa5/6
 ``` 
 
 
-! Tip: Use "tabulate" library
+### Tip: Use "tabulate" library
